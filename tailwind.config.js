@@ -13,6 +13,7 @@ export default {
         primaryContent: "#30F284",
         primarySubcon: "#F29849",
         primaryBG: "#0D0D0D",
+        primaryBG2: "#eeeeee",
       }
     },
   },

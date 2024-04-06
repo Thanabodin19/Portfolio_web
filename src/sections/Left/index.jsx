@@ -3,8 +3,8 @@ import Navbar from '../Navbar'
 import Contact from '../Contact'
 const Left_Sec = () =>{
     return (
-        <div>
-            <div className='sticky top-14 grid grid-rows-[35%_45%_20%] h-[90vh]'>
+        <div className="px-5">
+            <div className='sticky top-14 grid gap-y-5 lg:grid-rows-[35%_45%_20%] lg:h-[90vh]'>
                 <Header />
                 <Navbar />
                 <Contact />
